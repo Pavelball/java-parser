@@ -1,4 +1,0 @@
-1: java -jar JavaParser.jar C:\Users\balob\Desktop\ipr\log\main.log.2014-11-17 C:\Users\balob\Desktop\ipr\splitFiles\part
-2.1: java -jar JavaParser.jar найдена C:\Users\balob\Desktop\ipr\splitFiles find
-2.2: java -jar JavaParser.jar ; C:\Users\balob\Desktop\ipr\splitFiles delimiter
-3: java -jar JavaParser.jar --help
